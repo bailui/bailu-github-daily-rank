@@ -1,3 +1,4 @@
+import json
 import os
 import re
 import requests
@@ -73,6 +74,10 @@ def clean_desc(desc, limit=110):
     return desc[:limit] + ("..." if len(desc) > limit else "")
 
 
+def escape_ts(text):
+    return (text or "").replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${")
+
+
 def repo_cn_comment(repo):
     category = classify(repo)
     stars = repo.get("stargazers_count", 0)
@@ -131,6 +136,33 @@ def generate_xiaohongshu(repos, date):
     return "\n".join(lines)
 
 
+def generate_blogpost_ts(repos, date):
+    article_html = generate_daily_article(repos, date)
+    article_html = article_html.replace("\n", "<br/>\n")
+    title = f"今日值得看的 10 个 GitHub 开源项目｜{date}"
+    summary = "每天自动筛选适合大众关注的 AI 工具、效率神器、学习资源、图片视频、投资加密和开发工具。"
+    lines = [
+        "import { BlogPost } from '../types';",
+        "",
+        "export const githubDailyPosts: BlogPost[] = [",
+        "  {",
+        f"    id: 'github-daily-{date}',",
+        f"    title: `{escape_ts(title)}`,",
+        f"    summary: `{escape_ts(summary)}`,",
+        f"    content: `{escape_ts(article_html)}`,",
+        "    author: '白鹿 io',",
+        f"    date: '{date}',",
+        "    category: 'AI工具',",
+        "    readCount: 0,",
+        "    tags: ['GitHub', 'AI工具', '效率工具', '开源项目'],",
+        "    coverImage: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800'",
+        "  }",
+        "];",
+        "",
+    ]
+    return "\n".join(lines)
+
+
 def replace_block(content, start, end, body):
     return re.sub(f"{re.escape(start)}.*?{re.escape(end)}", f"{start}\n\n{body}\n\n{end}", content, flags=re.S)
 
@@ -147,10 +179,13 @@ def update_readme(repos, date):
 def write_outputs(repos, date):
     os.makedirs("docs", exist_ok=True)
     os.makedirs("content/xiaohongshu", exist_ok=True)
+    os.makedirs("dist-site", exist_ok=True)
     with open(f"docs/{date}.md", "w", encoding="utf-8") as f:
         f.write(generate_daily_article(repos, date))
     with open(f"content/xiaohongshu/{date}.md", "w", encoding="utf-8") as f:
         f.write(generate_xiaohongshu(repos, date))
+    with open("dist-site/githubDailyPosts.ts", "w", encoding="utf-8") as f:
+        f.write(generate_blogpost_ts(repos, date))
 
 
 if __name__ == "__main__":
