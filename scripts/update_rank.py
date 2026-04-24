@@ -4,11 +4,11 @@ import requests
 from datetime import datetime, timezone
 
 QUERIES = [
-    "stars:>500 pushed:>2025-01-01 ai chatgpt llm agent",
-    "stars:>500 pushed:>2025-01-01 productivity tool automation",
-    "stars:>500 pushed:>2025-01-01 image video music design",
-    "stars:>500 pushed:>2025-01-01 finance crypto trading stock",
-    "stars:>500 pushed:>2025-01-01 awesome learning tutorial",
+    "ai stars:>500 pushed:>2025-01-01",
+    "chatgpt stars:>500 pushed:>2025-01-01",
+    "productivity stars:>500 pushed:>2025-01-01",
+    "image stars:>500 pushed:>2025-01-01",
+    "awesome stars:>500 pushed:>2025-01-01",
 ]
 
 CATEGORY_RULES = {
@@ -38,7 +38,9 @@ def fetch_repos():
         params = {"q": q, "sort": "updated", "order": "desc", "per_page": 20}
         try:
             r = requests.get("https://api.github.com/search/repositories", params=params, headers=headers, timeout=20)
-            r.raise_for_status()
+            if r.status_code != 200:
+                print(f"Fetch failed: {q} -> {r.status_code} {r.text[:200]}")
+                continue
             for repo in r.json().get("items", []):
                 repos[repo["full_name"]] = repo
         except Exception as e:
@@ -97,15 +99,7 @@ def top_repos(repos, n=15):
 def generate_table(repos):
     rows = []
     for i, repo in enumerate(top_repos(repos), 1):
-        name = repo["full_name"]
-        url = repo["html_url"]
-        category = classify(repo)
-        desc = clean_desc(repo.get("description"))
-        lang = repo.get("language") or "-"
-        stars = repo.get("stargazers_count", 0)
-        forks = repo.get("forks_count", 0)
-        updated = repo.get("updated_at", "")[:10]
-        rows.append(f"| {i} | [{name}]({url}) | {category} | {desc} | {lang} | {stars:,} | {forks:,} | {updated} |")
+        rows.append(f"| {i} | [{repo['full_name']}]({repo['html_url']}) | {classify(repo)} | {clean_desc(repo.get('description'))} | {repo.get('language') or '-'} | {repo.get('stargazers_count', 0):,} | {repo.get('forks_count', 0):,} | {repo.get('updated_at', '')[:10]} |")
     return "\n".join(rows)
 
 
@@ -118,9 +112,8 @@ def generate_highlights(repos):
 
 
 def generate_daily_article(repos, date):
-    selected = top_repos(repos, 10)
     lines = [f"# 今日值得看的 10 个 GitHub 开源项目｜{date}", "", "每天从 GitHub 上筛选一批更适合大众关注的开源项目，重点看 AI 工具、效率神器、学习资源、图片视频、投资加密和开发工具。", "", "## 今日精选", "", generate_highlights(repos), "", "## 今日榜单", ""]
-    for i, repo in enumerate(selected, 1):
+    for i, repo in enumerate(top_repos(repos, 10), 1):
         category = classify(repo)
         lines.extend([f"### {i}. [{repo['full_name']}]({repo['html_url']})", "", f"- 分类：{category}", f"- 语言：{repo.get('language') or '-'}", f"- Stars：{repo.get('stargazers_count', 0):,}", f"- 一句话：{clean_desc(repo.get('description'), 160)}", f"- 为什么值得看：{repo_cn_comment(repo)}", f"- 适合人群：{AUDIENCE_TIPS.get(category, AUDIENCE_TIPS['值得关注'])}", ""])
     lines.extend(["## 写在最后", "", "开源项目每天都在变化。这个榜单不追求只给程序员看，而是希望把真正有用、有趣、有潜力的工具筛出来，让普通用户、创作者、独立开发者和学习者都能发现新机会。", "", "> 本内容由 GitHub Actions 自动生成，仅用于学习研究和工具发现，不构成投资建议。"])
@@ -128,9 +121,8 @@ def generate_daily_article(repos, date):
 
 
 def generate_xiaohongshu(repos, date):
-    selected = top_repos(repos, 5)
     lines = [f"今天这 5 个 GitHub 项目值得收藏｜{date}", "", "每天帮你从 GitHub 里捞真正有用的开源工具，不只程序员能看，做内容、办公、学习、AI 副业都可能用得上。", ""]
-    for i, repo in enumerate(selected, 1):
+    for i, repo in enumerate(top_repos(repos, 5), 1):
         lines.append(f"{i}. {repo['full_name']}")
         lines.append(f"看点：{repo_cn_comment(repo)}")
         lines.append(f"适合：{AUDIENCE_TIPS.get(classify(repo), AUDIENCE_TIPS['值得关注'])}")
@@ -165,6 +157,7 @@ if __name__ == "__main__":
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     repos = fetch_repos()
     if not repos:
-        raise SystemExit("No repositories fetched")
+        print("No repositories fetched from GitHub API. Keep previous README unchanged.")
+        raise SystemExit(0)
     update_readme(repos, date)
     write_outputs(repos, date)
