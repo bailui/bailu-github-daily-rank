@@ -1,0 +1,47 @@
+name: Publish to Website
+
+on:
+  workflow_run:
+    workflows: ["Daily Update"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+
+      - name: Generate latest blog data if missing
+        run: |
+          if [ ! -f dist-site/githubDailyPosts.ts ]; then
+            pip install requests
+            python scripts/update_rank.py
+          fi
+
+      - name: Clone website repo
+        run: |
+          git clone https://x-access-token:${{ secrets.WEBSITE_REPO_TOKEN }}@github.com/bailui/bailuio.github.io.git site
+
+      - name: Copy blog data
+        run: |
+          mkdir -p site/data
+          cp dist-site/githubDailyPosts.ts site/data/githubDailyPosts.ts
+
+      - name: Commit and push
+        run: |
+          cd site
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/githubDailyPosts.ts
+          git commit -m "auto update github daily blog" || echo "no changes"
+          git push
