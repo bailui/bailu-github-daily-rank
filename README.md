@@ -4,39 +4,41 @@
 
 # 白鹿 GitHub 每日开源趋势榜
 
-每天自动发现 GitHub 上 **普通人也看得懂、用得上、值得收藏** 的开源项目。  
-聚焦 **AI 工具、效率神器、学习资源、图片视频、投资加密、开发工具**。
+这是白鹿 io 自建的每日开源观察栏目，用来记录 GitHub 上近期值得关注的工具、项目和技术趋势。  
+重点关注 **AI 工具、效率工具、学习资源、图片视频、投资加密、开发工具**，既方便我自己长期跟踪，也方便有需要的人收藏参考。
 
 [![Daily Update](https://github.com/bailui/bailu-github-daily-rank/actions/workflows/daily.yml/badge.svg)](https://github.com/bailui/bailu-github-daily-rank/actions/workflows/daily.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bailui/bailu-github-daily-rank?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bailui/bailu-github-daily-rank?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
-**每天 08:30 自动更新｜适合收藏｜适合做选题｜适合发现工具和机会**
+**每天 08:30 自动更新｜开源观察｜工具收藏｜选题参考｜长期记录**
 
 </div>
 
 ---
 
-## 🔥 这个项目适合谁每天看
+## 为什么做这个项目
 
-- 想发现好用 AI 工具的人
-- 想提升办公、写作、学习效率的人
-- 想找自媒体、图片、视频工具的人
-- 想关注加密货币、量化交易、金融科技工具的人
-- 想找项目灵感、网站灵感、副业灵感的人
-- 想每天快速浏览科技热点的人
+每天都会有很多新的开源项目出现，但真正值得长期关注的项目并不容易筛选。这个仓库想做的事情很简单：
+
+- 记录每天值得看的 GitHub 项目
+- 从 AI、效率、学习、内容创作、金融科技等方向筛选实用工具
+- 把项目整理成更容易阅读的榜单、文章和自媒体素材
+- 为后续博客、导航站、工具合集沉淀数据
+
+这个项目不是单纯给别人看的展示页，而是一个长期使用的内容和工具数据库。
 
 ---
 
-## 📌 每天自动生成什么
+## 每天自动生成什么
 
 本仓库每天会自动生成三类内容：
 
 ```text
-README.md                      今日精选榜单
-docs/YYYY-MM-DD.md             博客文章版
-content/xiaohongshu/YYYY-MM-DD.md  小红书/自媒体文案版
+README.md                         今日精选榜单
+docs/YYYY-MM-DD.md                博客文章版
+content/xiaohongshu/YYYY-MM-DD.md 自媒体文案版
 ```
 
 ---
@@ -72,12 +74,12 @@ content/xiaohongshu/YYYY-MM-DD.md  小红书/自媒体文案版
 
 ---
 
-## 🧭 内容入口
+## 内容入口
 
 - 每日博客文章：[`docs/`](docs/)
-- 小红书文案素材：[`content/xiaohongshu/`](content/xiaohongshu/)
-- 主站规划：`https://www.bailuioai.com/`
-- 后续可接入：博客、导航站、AI 工具合集、量化工具合集
+- 自媒体素材：[`content/xiaohongshu/`](content/xiaohongshu/)
+- 主站：`https://www.bailuioai.com/`
+- 目标：沉淀 AI 工具、效率工具、开源项目、导航站和内容选题数据库
 
 ---
 
@@ -87,7 +89,7 @@ content/xiaohongshu/YYYY-MM-DD.md  小红书/自媒体文案版
 
 ```mermaid
 flowchart LR
-    A[GitHub Actions 定时触发] --> B[抓取大众关注项目]
+    A[GitHub Actions 定时触发] --> B[抓取近期活跃项目]
     B --> C[分类与热度评分]
     C --> D[生成 README / 博客 / 自媒体文案]
     D --> E[自动提交到仓库]
@@ -104,6 +106,6 @@ flowchart LR
 <div align="center">
 
 由 **白鹿 io** 持续维护。  
-让好项目被看见，让普通人也能读懂技术趋势。
+记录开源项目，也记录新的工具机会。
 
 </div>
