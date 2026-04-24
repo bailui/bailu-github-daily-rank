@@ -4,11 +4,11 @@ import requests
 from datetime import datetime, timezone
 
 QUERIES = [
-    "stars:>500 pushed:>2025-01-01 ai OR chatgpt OR llm OR agent",
-    "stars:>500 pushed:>2025-01-01 productivity OR tool OR automation",
-    "stars:>500 pushed:>2025-01-01 image OR video OR music OR design",
-    "stars:>500 pushed:>2025-01-01 finance OR crypto OR trading OR stock",
-    "stars:>500 pushed:>2025-01-01 awesome OR learning OR tutorial",
+    "stars:>500 pushed:>2025-01-01 ai chatgpt llm agent",
+    "stars:>500 pushed:>2025-01-01 productivity tool automation",
+    "stars:>500 pushed:>2025-01-01 image video music design",
+    "stars:>500 pushed:>2025-01-01 finance crypto trading stock",
+    "stars:>500 pushed:>2025-01-01 awesome learning tutorial",
 ]
 
 CATEGORY_RULES = {
@@ -119,59 +119,23 @@ def generate_highlights(repos):
 
 def generate_daily_article(repos, date):
     selected = top_repos(repos, 10)
-    lines = [
-        f"# 今日值得看的 10 个 GitHub 开源项目｜{date}",
-        "",
-        "每天从 GitHub 上筛选一批更适合大众关注的开源项目，重点看 AI 工具、效率神器、学习资源、图片视频、投资加密和开发工具。",
-        "",
-        "## 今日精选",
-        "",
-        generate_highlights(repos),
-        "",
-        "## 今日榜单",
-        "",
-    ]
+    lines = [f"# 今日值得看的 10 个 GitHub 开源项目｜{date}", "", "每天从 GitHub 上筛选一批更适合大众关注的开源项目，重点看 AI 工具、效率神器、学习资源、图片视频、投资加密和开发工具。", "", "## 今日精选", "", generate_highlights(repos), "", "## 今日榜单", ""]
     for i, repo in enumerate(selected, 1):
         category = classify(repo)
-        lines.extend([
-            f"### {i}. [{repo['full_name']}]({repo['html_url']})",
-            "",
-            f"- 分类：{category}",
-            f"- 语言：{repo.get('language') or '-'}",
-            f"- Stars：{repo.get('stargazers_count', 0):,}",
-            f"- 一句话：{clean_desc(repo.get('description'), 160)}",
-            f"- 为什么值得看：{repo_cn_comment(repo)}",
-            f"- 适合人群：{AUDIENCE_TIPS.get(category, AUDIENCE_TIPS['值得关注'])}",
-            "",
-        ])
-    lines.extend([
-        "## 写在最后",
-        "",
-        "开源项目每天都在变化。这个榜单不追求只给程序员看，而是希望把真正有用、有趣、有潜力的工具筛出来，让普通用户、创作者、独立开发者和学习者都能发现新机会。",
-        "",
-        "> 本内容由 GitHub Actions 自动生成，仅用于学习研究和工具发现，不构成投资建议。",
-    ])
+        lines.extend([f"### {i}. [{repo['full_name']}]({repo['html_url']})", "", f"- 分类：{category}", f"- 语言：{repo.get('language') or '-'}", f"- Stars：{repo.get('stargazers_count', 0):,}", f"- 一句话：{clean_desc(repo.get('description'), 160)}", f"- 为什么值得看：{repo_cn_comment(repo)}", f"- 适合人群：{AUDIENCE_TIPS.get(category, AUDIENCE_TIPS['值得关注'])}", ""])
+    lines.extend(["## 写在最后", "", "开源项目每天都在变化。这个榜单不追求只给程序员看，而是希望把真正有用、有趣、有潜力的工具筛出来，让普通用户、创作者、独立开发者和学习者都能发现新机会。", "", "> 本内容由 GitHub Actions 自动生成，仅用于学习研究和工具发现，不构成投资建议。"])
     return "\n".join(lines)
 
 
 def generate_xiaohongshu(repos, date):
     selected = top_repos(repos, 5)
-    lines = [
-        f"今天这 5 个 GitHub 项目值得收藏｜{date}",
-        "",
-        "每天帮你从 GitHub 里捞真正有用的开源工具，不只程序员能看，做内容、办公、学习、AI 副业都可能用得上。",
-        "",
-    ]
+    lines = [f"今天这 5 个 GitHub 项目值得收藏｜{date}", "", "每天帮你从 GitHub 里捞真正有用的开源工具，不只程序员能看，做内容、办公、学习、AI 副业都可能用得上。", ""]
     for i, repo in enumerate(selected, 1):
         lines.append(f"{i}. {repo['full_name']}")
         lines.append(f"看点：{repo_cn_comment(repo)}")
         lines.append(f"适合：{AUDIENCE_TIPS.get(classify(repo), AUDIENCE_TIPS['值得关注'])}")
         lines.append("")
-    lines.extend([
-        "建议先收藏，再慢慢试。真正有价值的工具，往往不是刷到一次就会用，而是某一天刚好能帮你解决问题。",
-        "",
-        "#AI工具 #开源项目 #效率工具 #GitHub #自媒体工具 #学习资源 #独立开发",
-    ])
+    lines.extend(["建议先收藏，再慢慢试。真正有价值的工具，往往不是刷到一次就会用，而是某一天刚好能帮你解决问题。", "", "#AI工具 #开源项目 #效率工具 #GitHub #自媒体工具 #学习资源 #独立开发"])
     return "\n".join(lines)
 
 
@@ -182,15 +146,7 @@ def replace_block(content, start, end, body):
 def update_readme(repos, date):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
-    rank_body = (
-        f"> 更新时间：{date}  ·  免费自动版  ·  面向大众关注的 AI、效率、学习、图片视频、投资加密工具\n\n"
-        "### 今日精选\n\n"
-        f"{generate_highlights(repos)}\n\n"
-        "### 今日大众热门开源项目\n\n"
-        "| 排名 | 项目 | 分类 | 一句话看点 | 语言 | Stars | Forks | 更新 |\n"
-        "|---:|---|---|---|---|---:|---:|---|\n"
-        f"{generate_table(repos)}"
-    )
+    rank_body = f"> 更新时间：{date}  ·  免费自动版  ·  面向大众关注的 AI、效率、学习、图片视频、投资加密工具\n\n### 今日精选\n\n{generate_highlights(repos)}\n\n### 今日大众热门开源项目\n\n| 排名 | 项目 | 分类 | 一句话看点 | 语言 | Stars | Forks | 更新 |\n|---:|---|---|---|---|---:|---:|---|\n{generate_table(repos)}"
     content = replace_block(content, "<!-- DAILY_RANK_START -->", "<!-- DAILY_RANK_END -->", rank_body)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
