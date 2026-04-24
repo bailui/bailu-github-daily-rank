@@ -32,13 +32,18 @@
 
 <!-- DAILY_RANK_START -->
 
-> 首次创建后，等待 GitHub Actions 运行一次，系统会自动生成今日榜单。
-
 | 排名 | 项目 | 简介 | 语言 | Stars | Forks | 更新时间 |
 |---:|---|---|---|---:|---:|---|
-| 1 | `microsoft/markitdown` | Python tool for converting files and office documents to Markdown. | Python | - | - | - |
-| 2 | `openai/codex` | Lightweight coding agent that runs in your terminal. | TypeScript | - | - | - |
-| 3 | `freqtrade/freqtrade` | Free, open source crypto trading bot. | Python | - | - | - |
+| 1 | `codecrafters-io/build-your-own-x` | Master programming by recreating your favorite technologies from scratch. | Markdown | 493781 | 46757 | 2026-04-24 |
+| 2 | `sindresorhus/awesome` | 😎 Awesome lists about all kinds of interesting topics | None | 458409 | 34437 | 2026-04-24 |
+| 3 | `freeCodeCamp/freeCodeCamp` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 443456 | 44367 | 2026-04-24 |
+| 4 | `public-apis/public-apis` | A collective list of free APIs | Python | 426108 | 46480 | 2026-04-24 |
+| 5 | `EbookFoundation/free-programming-books` | :books: Freely available programming books | Python | 385948 | 66123 | 2026-04-24 |
+| 6 | `openclaw/openclaw` | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  | TypeScript | 363045 | 74209 | 2026-04-24 |
+| 7 | `kamranahmedse/developer-roadmap` | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | TypeScript | 353492 | 43965 | 2026-04-24 |
+| 8 | `donnemartin/system-design-primer` | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | Python | 343899 | 55525 | 2026-04-24 |
+| 9 | `jwasham/coding-interview-university` | A complete computer science study plan to become a software engineer. | None | 342117 | 82088 | 2026-04-24 |
+| 10 | `vinta/awesome-python` | An opinionated list of Python frameworks, libraries, tools, and resources | Python | 294092 | 27765 | 2026-04-24 |
 
 <!-- DAILY_RANK_END -->
 
