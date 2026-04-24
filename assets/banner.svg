@@ -1,0 +1,43 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(820 96) rotate(132) scale(420 280)">
+      <stop stop-color="#60A5FA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glow)"/>
+  <path d="M0 266C122 220 201 227 336 260C479 295 601 322 760 270C929 215 1028 216 1200 272V360H0V266Z" fill="#38BDF8" fill-opacity="0.13"/>
+  <path d="M0 292C142 255 240 261 384 292C523 322 646 330 792 292C954 250 1053 250 1200 302V360H0V292Z" fill="#22C55E" fill-opacity="0.10"/>
+  <g opacity="0.16">
+    <path d="M86 74H1114" stroke="#E5E7EB"/>
+    <path d="M86 126H1114" stroke="#E5E7EB"/>
+    <path d="M86 178H1114" stroke="#E5E7EB"/>
+    <path d="M86 230H1114" stroke="#E5E7EB"/>
+    <path d="M164 48V302" stroke="#E5E7EB"/>
+    <path d="M354 48V302" stroke="#E5E7EB"/>
+    <path d="M544 48V302" stroke="#E5E7EB"/>
+    <path d="M734 48V302" stroke="#E5E7EB"/>
+    <path d="M924 48V302" stroke="#E5E7EB"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="770" y="84" width="300" height="174" rx="24" fill="#0B1220" fill-opacity="0.78" stroke="#93C5FD" stroke-opacity="0.28"/>
+    <rect x="802" y="128" width="42" height="82" rx="10" fill="#38BDF8"/>
+    <rect x="862" y="104" width="42" height="106" rx="10" fill="#22C55E"/>
+    <rect x="922" y="146" width="42" height="64" rx="10" fill="#FACC15"/>
+    <path d="M802 234C850 200 891 192 930 174C970 156 1005 121 1044 98" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="1044" cy="98" r="11" fill="#F8FAFC"/>
+  </g>
+  <text x="86" y="112" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">白鹿 GitHub 每日开源趋势榜</text>
+  <text x="86" y="164" fill="#BFDBFE" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">AI · Developer Tools · Crypto · Quant · Legal Tech</text>
+  <text x="86" y="218" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">每日自动发现值得关注的开源项目</text>
+  <text x="86" y="258" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="18">Powered by GitHub Actions · Free Edition</text>
+</svg>
