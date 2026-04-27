@@ -4,8 +4,8 @@
 
 # 白鹿 GitHub 每日开源趋势榜
 
-这是白鹿 io 自建的每日开源观察栏目，用来记录 GitHub 上近期值得关注的工具、项目和技术趋势。  
-重点关注 **AI 工具、效率工具、学习资源、图片视频、投资加密、开发工具**，既方便我自己长期跟踪，也方便有需要的人收藏参考。
+> 每天筛一批更值得看的 GitHub 开源项目，偏重 **AI 工具、效率工具、学习资源、图片视频、投资加密、开发工具**。  
+> 目标不是做一个“信息堆积页”，而是做一个 **更适合收藏、筛选、写作和长期观察** 的项目库。
 
 [![Daily Update](https://github.com/bailui/bailu-github-daily-rank/actions/workflows/daily.yml/badge.svg)](https://github.com/bailui/bailu-github-daily-rank/actions/workflows/daily.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bailui/bailu-github-daily-rank?style=flat-square)
@@ -14,32 +14,53 @@
 
 **每天 08:30 自动更新｜开源观察｜工具收藏｜选题参考｜长期记录**
 
+<p>
+  <a href="#今日趋势榜">今日榜单</a> ·
+  <a href="docs/">每日归档</a> ·
+  <a href="content/xiaohongshu/">自媒体素材</a> ·
+  <a href="https://www.bailuioai.com/#blog">主站阅读</a>
+</p>
+
 </div>
 
 ---
 
-## 这个项目适合谁看
+## 项目定位
 
-- 想每天快速看一眼 GitHub 最近有什么值得关注的新项目
-- 想找 **AI 工具、效率工具、学习资源、图片视频工具、开发工具** 的人
-- 想做博客、公众号、小红书、导航站、工具站选题的人
-- 想长期积累开源项目数据库和内容素材的人
+这个仓库更像一个 **开源趋势观察台 + 内容素材库**，主要做三件事：
+
+- 从 GitHub 里筛出近期更值得关注的项目，而不是只堆热门仓库
+- 用更容易阅读的方式整理成榜单、文章和内容素材
+- 为后续博客、导航站、工具站、选题库持续沉淀数据
 
 ---
 
-## 你能在这里看到什么
+## 你会在这里看到什么
 
-```text
-README.md                         今日精选榜单
-docs/YYYY-MM-DD.md                每日文章归档
-content/xiaohongshu/YYYY-MM-DD.md 自媒体文案归档
-```
+| 模块 | 说明 | 适合谁 |
+|---|---|---|
+| `README.md` | 当天最值得先看的项目榜单 | 想快速浏览的人 |
+| `docs/YYYY-MM-DD.md` | 每日完整文章归档 | 想深入阅读和收藏的人 |
+| `content/xiaohongshu/YYYY-MM-DD.md` | 可直接改写的短内容素材 | 做公众号、小红书、博客的人 |
+| `assets/stats.svg` | 趋势统计图 | 想直观看项目分布的人 |
 
-你可以把这个仓库理解成：
+---
 
-- 首页看当天重点项目
-- `docs/` 看更完整的每日文章
-- `content/xiaohongshu/` 看可直接改写使用的内容素材
+## 这个项目适合谁
+
+- 想每天快速看一眼 GitHub 最近有哪些值得关注的新项目
+- 想找 **AI 工具、效率工具、学习资源、开发工具** 的用户
+- 想做博客、公众号、小红书、导航站、工具站选题的人
+- 想长期积累开源项目数据库和内容素材的人
+- 不想被“纯热门榜单”淹没，更希望看经过整理和筛选内容的人
+
+---
+
+## 怎么看最省时间
+
+1. **先看 README 榜单**：快速知道当天值得优先关注的项目。  
+2. **再看 docs 归档**：适合保存、做深度阅读、做博客参考。  
+3. **最后看 content 素材**：适合改成公众号、小红书、短内容选题。  
 
 ---
 
@@ -180,4 +201,3 @@ content/xiaohongshu/YYYY-MM-DD.md 自媒体文案归档
 记录开源项目，也记录新的工具机会。
 
 </div>
-把这个README再优化下，更直观，更美观一点。你参考下那个项目。ೊಂಡ് to=api_tool.call_tool  天天中彩票不ickets ＿影音先锋  天天彩票软件{
