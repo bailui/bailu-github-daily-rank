@@ -2,10 +2,10 @@ import { BlogPost } from '../types';
 
 export const githubDailyPosts: BlogPost[] = [
   {
-    id: 'github-daily-2026-07-16',
-    title: `今日值得看的 10 个 GitHub 开源项目｜2026-07-16`,
+    id: 'github-daily-2026-07-17',
+    title: `今日值得看的 10 个 GitHub 开源项目｜2026-07-17`,
     summary: `白鹿 io 每日开源观察：带个人判断、项目地址、多语言速览，筛选值得关注的 AI 工具、效率工具和学习资源。`,
-    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-07-16<br/>
+    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-07-17<br/>
 <br/>
 阅读入口：[https://www.bailuioai.com/#blog](https://www.bailuioai.com/#blog)<br/>
 项目归档：[https://github.com/bailui/bailu-github-daily-rank](https://github.com/bailui/bailu-github-daily-rank)<br/>
@@ -39,7 +39,7 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：383,060<br/>
+- Stars：383,183<br/>
 - 一句话：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
@@ -49,7 +49,7 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br/>
 - 分类：AI工具<br/>
 - 语言：Python<br/>
-- Stars：215,548<br/>
+- Stars：216,056<br/>
 - 一句话：The agent that grows with you<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
@@ -59,80 +59,80 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/langflow-ai/langflow](https://github.com/langflow-ai/langflow)<br/>
 - 分类：AI工具<br/>
 - 语言：Python<br/>
-- Stars：151,923<br/>
+- Stars：151,924<br/>
 - 一句话：Langflow is a powerful tool for building and deploying AI-powered agents and workflows.<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 4. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
+### 4. [open-webui/open-webui](https://github.com/open-webui/open-webui)<br/>
+<br/>
+- 地址：[https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)<br/>
+- 分类：AI工具<br/>
+- 语言：Python<br/>
+- Stars：145,690<br/>
+- 一句话：User-friendly AI Interface (Supports Ollama, OpenAI API, ...)<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 5. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
 <br/>
 - 地址：[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
 - 分类：效率神器<br/>
 - 语言：C<br/>
-- Stars：136,633<br/>
+- Stars：136,500<br/>
 - 一句话：Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br/>
 - 我的判断：这类项目值得放进日常工作流里观察，实用性通常比较强。<br/>
 - 适合人群：适合每天办公、写作、整理资料、自动化处理重复工作的用户。<br/>
 <br/>
-### 5. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)<br/>
+### 6. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br/>
 <br/>
-- 地址：[https://github.com/infiniflow/ragflow](https://github.com/infiniflow/ragflow)<br/>
+- 地址：[https://github.com/microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br/>
 - 分类：AI工具<br/>
-- 语言：Go<br/>
-- Stars：85,153<br/>
-- 一句话：RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context la...<br/>
+- 语言：Jupyter Notebook<br/>
+- Stars：113,106<br/>
+- 一句话：21 Lessons, Get Started Building with Generative AI<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 6. [lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
+### 7. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br/>
+<br/>
+- 地址：[https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br/>
+- 分类：学习资源<br/>
+- 语言：Swift<br/>
+- Stars：107,991<br/>
+- 一句话： This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.<br/>
+- 我的判断：我会把它当作资料库收藏，适合慢慢翻。<br/>
+- 适合人群：适合学生、转行者、程序员和想系统学习新技能的人。<br/>
+<br/>
+### 8. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br/>
+<br/>
+- 地址：[https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br/>
+- 分类：AI工具<br/>
+- 语言：Python<br/>
+- Stars：97,743<br/>
+- 一句话：利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 9. [lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
 <br/>
 - 地址：[https://github.com/lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：79,891<br/>
+- Stars：80,231<br/>
 - 一句话：🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 7. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br/>
-<br/>
-- 地址：[https://github.com/OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br/>
-- 分类：AI工具<br/>
-- 语言：Python<br/>
-- Stars：80,922<br/>
-- 一句话：🙌 OpenHands: AI-Driven Development<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 8. [nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
+### 10. [nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
 <br/>
 - 地址：[https://github.com/nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：78,656<br/>
+- Stars：79,018<br/>
 - 一句话：🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, ...<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br/>
-<br/>
-- 地址：[https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br/>
-- 分类：AI工具<br/>
-- 语言：Jupyter Notebook<br/>
-- Stars：74,704<br/>
-- 一句话：Examples and guides for using the OpenAI API<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 10. [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br/>
-<br/>
-- 地址：[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br/>
-- 分类：图片视频<br/>
-- 语言：Python<br/>
-- Stars：59,535<br/>
-- 一句话：Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking<br/>
-- 我的判断：这类项目对内容创作者很实用，可能直接影响做图、剪辑或素材生产效率。<br/>
-- 适合人群：适合自媒体、设计师、剪辑师、博主和内容创作者。<br/>
 <br/>
 ## Multi-language quick view<br/>
 <br/>
@@ -144,13 +144,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 | 3 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI Tools | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |<br/>
-| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AI Tools | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cu... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI Tools | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI Tools | 🙌 OpenHands: AI-Driven Development | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 9 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AI Tools | Examples and guides for using the OpenAI API | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 10 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | Image & Video | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | My take: useful for creators who work with images, videos, audio, or design assets. |<br/>
+| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AI Tools | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 5 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |<br/>
+| 6 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | AI Tools | 21 Lessons, Get Started Building with Generative AI | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Learning |  This project is dedicated to collecting high-quality macOS software and organizing them ... | My take: a good project to bookmark and revisit when learning or building a roadmap. |<br/>
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | AI Tools | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI Tools | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 10 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -162,13 +162,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 | 3 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AIツール | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
-| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AIツール | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cu... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AIツール | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AIツール | 🙌 OpenHands: AI-Driven Development | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 9 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AIツール | Examples and guides for using the OpenAI API | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 10 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 画像・動画 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | 所感：画像、動画、音声、デザイン系の制作に関わる人には参考になります。 |<br/>
+| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AIツール | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 5 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
+| 6 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | AIツール | 21 Lessons, Get Started Building with Generative AI | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学習リソース |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |<br/>
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | AIツール | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AIツール | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 10 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -180,13 +180,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 | 3 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI 도구 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
-| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AI 도구 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cu... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI 도구 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI 도구 | 🙌 OpenHands: AI-Driven Development | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 9 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AI 도구 | Examples and guides for using the OpenAI API | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 10 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 이미지·비디오 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | 의견: 이미지, 영상, 오디오, 디자인 작업을 하는 사람에게 유용할 수 있습니다. |<br/>
+| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AI 도구 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 5 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
+| 6 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | AI 도구 | 21 Lessons, Get Started Building with Generative AI | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 학습 자료 |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |<br/>
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | AI 도구 | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI 도구 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 10 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -196,7 +196,7 @@ export const githubDailyPosts: BlogPost[] = [
 <br/>
 > 本内容由 GitHub Actions 自动生成，并加入白鹿 io 的观察口径；仅用于学习研究和工具发现，不构成投资建议。`,
     author: '白鹿 io',
-    date: '2026-07-16',
+    date: '2026-07-17',
     category: 'AI工具',
     readCount: 0,
     tags: ['GitHub', 'AI工具', '效率工具', '开源项目', '多语言'],
