@@ -2,10 +2,10 @@ import { BlogPost } from '../types';
 
 export const githubDailyPosts: BlogPost[] = [
   {
-    id: 'github-daily-2026-08-02',
-    title: `今日值得看的 10 个 GitHub 开源项目｜2026-08-02`,
+    id: 'github-daily-2026-08-03',
+    title: `今日值得看的 10 个 GitHub 开源项目｜2026-08-03`,
     summary: `白鹿 io 每日开源观察：带个人判断、项目地址、多语言速览，筛选值得关注的 AI 工具、效率工具和学习资源。`,
-    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-08-02<br/>
+    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-08-03<br/>
 <br/>
 阅读入口：[https://www.bailuioai.com/#blog](https://www.bailuioai.com/#blog)<br/>
 项目归档：[https://github.com/bailui/bailu-github-daily-rank](https://github.com/bailui/bailu-github-daily-rank)<br/>
@@ -39,7 +39,7 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：384,858<br/>
+- Stars：384,970<br/>
 - 一句话：Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
@@ -49,7 +49,7 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br/>
 - 分类：AI工具<br/>
 - 语言：Python<br/>
-- Stars：223,893<br/>
+- Stars：224,406<br/>
 - 一句话：The agent that grows with you<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
@@ -59,78 +59,78 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
 - 分类：效率神器<br/>
 - 语言：C<br/>
-- Stars：137,364<br/>
+- Stars：137,404<br/>
 - 一句话：Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br/>
 - 我的判断：这类项目值得放进日常工作流里观察，实用性通常比较强。<br/>
 - 适合人群：适合每天办公、写作、整理资料、自动化处理重复工作的用户。<br/>
 <br/>
-### 4. [lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
+### 4. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br/>
 <br/>
-- 地址：[https://github.com/lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
+- 地址：[https://github.com/Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)<br/>
 - 分类：AI工具<br/>
-- 语言：TypeScript<br/>
-- Stars：81,069<br/>
-- 一句话：🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 语言：Python<br/>
+- Stars：129,904<br/>
+- 一句话：100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.<br/>
+- 我的判断：我会把它当作资料库收藏，适合慢慢翻。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 5. [nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
+### 5. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br/>
+<br/>
+- 地址：[https://github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br/>
+- 分类：AI工具<br/>
+- 语言：-<br/>
+- Stars：91,743<br/>
+- 一句话：A collection of MCP servers.<br/>
+- 我的判断：我会把它当作资料库收藏，适合慢慢翻。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 6. [nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
 <br/>
 - 地址：[https://github.com/nexu-io/open-design](https://github.com/nexu-io/open-design)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：83,066<br/>
+- Stars：83,250<br/>
 - 一句话：🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, ...<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 6. [koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br/>
+### 7. [lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
 <br/>
-- 地址：[https://github.com/koala73/worldmonitor](https://github.com/koala73/worldmonitor)<br/>
+- 地址：[https://github.com/lobehub/lobehub](https://github.com/lobehub/lobehub)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：77,841<br/>
-- 一句话：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness in...<br/>
+- Stars：81,137<br/>
+- 一句话：🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 7. [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br/>
+### 8. [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br/>
 <br/>
 - 地址：[https://github.com/code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：67,008<br/>
+- Stars：67,069<br/>
 - 一句话：omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 8. [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br/>
+### 9. [appwrite/appwrite](https://github.com/appwrite/appwrite)<br/>
 <br/>
-- 地址：[https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br/>
-- 分类：图片视频<br/>
-- 语言：CSS<br/>
-- Stars：63,916<br/>
-- 一句话：Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Ic...<br/>
-- 我的判断：我会把它当作资料库收藏，适合慢慢翻。<br/>
-- 适合人群：适合自媒体、设计师、剪辑师、博主和内容创作者。<br/>
-<br/>
-### 9. [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br/>
-<br/>
-- 地址：[https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br/>
-- 分类：图片视频<br/>
-- 语言：Python<br/>
-- Stars：60,113<br/>
-- 一句话：Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking<br/>
-- 我的判断：这类项目对内容创作者很实用，可能直接影响做图、剪辑或素材生产效率。<br/>
-- 适合人群：适合自媒体、设计师、剪辑师、博主和内容创作者。<br/>
-<br/>
-### 10. [tw93/Pake](https://github.com/tw93/Pake)<br/>
-<br/>
-- 地址：[https://github.com/tw93/Pake](https://github.com/tw93/Pake)<br/>
+- 地址：[https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite)<br/>
 - 分类：AI工具<br/>
-- 语言：Rust<br/>
-- Stars：60,392<br/>
-- 一句话：🤱🏻 Turn any webpage into a desktop app with one command.<br/>
+- 语言：TypeScript<br/>
+- Stars：56,767<br/>
+- 一句话：Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 10. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br/>
+<br/>
+- 地址：[https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br/>
+- 分类：AI工具<br/>
+- 语言：TypeScript<br/>
+- Stars：49,307<br/>
+- 一句话：AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
@@ -144,13 +144,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |<br/>
-| 4 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI Tools | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | AI Tools | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitor... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI Tools | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 8 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Image & Video | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Sour... | My take: useful for creators who work with images, videos, audio, or design assets. |<br/>
-| 9 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | Image & Video | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | My take: useful for creators who work with images, videos, audio, or design assets. |<br/>
-| 10 | [tw93/Pake](https://github.com/tw93/Pake) | AI Tools | 🤱🏻 Turn any webpage into a desktop app with one command. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | AI Tools | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 5 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | AI Tools | A collection of MCP servers. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 7 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI Tools | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 8 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI Tools | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 9 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | AI Tools | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 10 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI Tools | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified ac... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -162,13 +162,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
-| 4 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AIツール | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | AIツール | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitor... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AIツール | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 8 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 画像・動画 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Sour... | 所感：画像、動画、音声、デザイン系の制作に関わる人には参考になります。 |<br/>
-| 9 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 画像・動画 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | 所感：画像、動画、音声、デザイン系の制作に関わる人には参考になります。 |<br/>
-| 10 | [tw93/Pake](https://github.com/tw93/Pake) | AIツール | 🤱🏻 Turn any webpage into a desktop app with one command. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | AIツール | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 5 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | AIツール | A collection of MCP servers. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 7 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AIツール | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 8 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AIツール | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 9 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | AIツール | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 10 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AIツール | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified ac... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -180,13 +180,13 @@ export const githubDailyPosts: BlogPost[] = [
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
-| 4 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI 도구 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | AI 도구 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitor... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI 도구 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 8 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 이미지·비디오 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Sour... | 의견: 이미지, 영상, 오디오, 디자인 작업을 하는 사람에게 유용할 수 있습니다. |<br/>
-| 9 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 이미지·비디오 | Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic seg... | 의견: 이미지, 영상, 오디오, 디자인 작업을 하는 사람에게 유용할 수 있습니다. |<br/>
-| 10 | [tw93/Pake](https://github.com/tw93/Pake) | AI 도구 | 🤱🏻 Turn any webpage into a desktop app with one command. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | AI 도구 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 5 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | AI 도구 | A collection of MCP servers. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding ag... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 7 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI 도구 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 8 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI 도구 | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for comple... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 9 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | AI 도구 | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 10 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI 도구 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified ac... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -196,7 +196,7 @@ export const githubDailyPosts: BlogPost[] = [
 <br/>
 > 本内容由 GitHub Actions 自动生成，并加入白鹿 io 的观察口径；仅用于学习研究和工具发现，不构成投资建议。`,
     author: '白鹿 io',
-    date: '2026-08-02',
+    date: '2026-08-03',
     category: 'AI工具',
     readCount: 0,
     tags: ['GitHub', 'AI工具', '效率工具', '开源项目', '多语言'],
