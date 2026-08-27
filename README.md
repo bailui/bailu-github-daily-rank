@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="assets/banner.svg" alt="白鹿 GitHub 每日开源趋势榜" width="100%" />
@@ -12,7 +14,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/bailui/bailu-github-daily-rank?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
-**每天 08:30 自动更新｜开源观察｜工具收藏｜选题参考｜长期记录**
+**每天 08:30 (UTC+8) 自动更新｜开源观察｜工具收藏｜选题参考｜长期记录**
 
 <p>
   <a href="#今日趋势榜">今日榜单</a> ·
