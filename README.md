@@ -68,7 +68,7 @@
 
 <!-- DAILY_RANK_START -->
 
-> 更新时间：2026-10-27  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
+> 更新时间：2026-10-28  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
 
 ### 我的今日观察
 
@@ -94,21 +94,21 @@
 
 | 排名 | 项目 | 分类 | 一句话看点 | 语言 | Stars | Forks | 更新 |
 |---:|---|---|---|---|---:|---:|---|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 393,166 | 82,663 | 2026-10-27 |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI工具 | The agent that grows with you | Python | 257,474 | 56,418 | 2026-10-27 |
-| 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 效率神器 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 140,010 | 8,645 | 2026-10-27 |
-| 4 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学习资源 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by di... | Swift | 117,130 | 9,735 | 2026-10-27 |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI工具 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websi... | TypeScript | 104,201 | 11,913 | 2026-10-27 |
-| 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI工具 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... | TypeScript | 83,516 | 16,011 | 2026-10-27 |
-| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 78,613 | 7,295 | 2026-10-27 |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Write HTML. Render video. Built for agents. | TypeScript | 73,277 | 6,634 | 2026-10-27 |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI工具 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | 70,379 | 5,802 | 2026-10-27 |
-| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | AI工具 | Make humans and AI agents work as one team — open-source and self-hostable. | Go | 53,909 | 7,088 | 2026-10-27 |
-| 11 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI工具 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLM... | TypeScript | 53,012 | 5,132 | 2026-10-27 |
-| 12 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | AI工具 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, M... | Python | 49,440 | 8,684 | 2026-10-27 |
-| 13 | [janhq/jan](https://github.com/janhq/jan) | AI工具 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | Rust | 45,111 | 3,112 | 2026-10-27 |
-| 14 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI工具 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature,... | Python | 43,922 | 3,221 | 2026-10-27 |
-| 15 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | AI工具 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Cop... | JavaScript | 40,455 | 5,221 | 2026-10-27 |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 393,232 | 82,666 | 2026-10-28 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI工具 | The agent that grows with you | Python | 257,821 | 56,550 | 2026-10-28 |
+| 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 效率神器 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 140,099 | 8,654 | 2026-10-28 |
+| 4 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI工具 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websi... | TypeScript | 104,455 | 11,926 | 2026-10-28 |
+| 5 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI工具 | 🙌 OpenHands: AI-Driven Development | TypeScript | 92,051 | 12,234 | 2026-10-28 |
+| 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI工具 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and... | TypeScript | 83,543 | 16,003 | 2026-10-28 |
+| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 78,657 | 7,305 | 2026-10-28 |
+| 8 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AI工具 | Examples and guides for using the OpenAI API | Jupyter Notebook | 76,840 | 13,005 | 2026-10-28 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Write HTML. Render video. Built for agents. | TypeScript | 74,117 | 6,730 | 2026-10-28 |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI工具 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | 70,419 | 5,806 | 2026-10-28 |
+| 11 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI工具 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations... | Python | 69,756 | 5,442 | 2026-10-28 |
+| 12 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI工具 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLM... | TypeScript | 53,035 | 5,135 | 2026-10-28 |
+| 13 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | AI工具 | ClickHouse® is a real-time analytics database management system | C++ | 50,640 | 9,176 | 2026-10-28 |
+| 14 | [files-community/Files](https://github.com/files-community/Files) | 效率神器 | A modern file manager that helps users organize their files and folders. | C# | 46,258 | 2,989 | 2026-10-28 |
+| 15 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI工具 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature,... | Python | 44,269 | 3,243 | 2026-10-28 |
 
 ### 多语言速览 / Multi-language quick view
 
@@ -120,13 +120,13 @@
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |
-| 4 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Learning |  This project is dedicated to collecting high-quality macOS software and organizing them ... | My take: a good project to bookmark and revisit when learning or building a roadmap. |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 4 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 5 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI Tools | 🙌 OpenHands: AI-Driven Development | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI Tools | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI Tools | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI Tools | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | AI Tools | Make humans and AI agents work as one team — open-source and self-hostable. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 8 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AI Tools | Examples and guides for using the OpenAI API | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI Tools | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 
 </details>
 
@@ -138,13 +138,13 @@
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |
-| 4 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学習リソース |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 4 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 5 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AIツール | 🙌 OpenHands: AI-Driven Development | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AIツール | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AIツール | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AIツール | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | AIツール | Make humans and AI agents work as one team — open-source and self-hostable. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 8 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AIツール | Examples and guides for using the OpenAI API | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AIツール | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 
 </details>
 
@@ -156,13 +156,13 @@
 | 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |
-| 4 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 학습 자료 |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 4 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 5 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI 도구 | 🙌 OpenHands: AI-Driven Development | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 6 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | AI 도구 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hir... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI 도구 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI 도구 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | AI 도구 | Make humans and AI agents work as one team — open-source and self-hostable. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 8 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | AI 도구 | Examples and guides for using the OpenAI API | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI 도구 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 
 </details>
 
