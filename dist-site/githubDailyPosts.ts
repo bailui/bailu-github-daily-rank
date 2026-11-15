@@ -2,10 +2,10 @@ import { BlogPost } from '../types';
 
 export const githubDailyPosts: BlogPost[] = [
   {
-    id: 'github-daily-2026-11-14',
-    title: `今日值得看的 10 个 GitHub 开源项目｜2026-11-14`,
+    id: 'github-daily-2026-11-15',
+    title: `今日值得看的 10 个 GitHub 开源项目｜2026-11-15`,
     summary: `白鹿 io 每日开源观察：带个人判断、项目地址、多语言速览，筛选值得关注的 AI 工具、效率工具和学习资源。`,
-    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-11-14<br/>
+    content: `# 今日值得看的 10 个 GitHub 开源项目｜2026-11-15<br/>
 <br/>
 阅读入口：[https://www.bailuioai.com/#blog](https://www.bailuioai.com/#blog)<br/>
 项目归档：[https://github.com/bailui/bailu-github-daily-rank](https://github.com/bailui/bailu-github-daily-rank)<br/>
@@ -17,7 +17,7 @@ export const githubDailyPosts: BlogPost[] = [
 今天我会重点看这几个方向：AI 工具是否真的能进入日常工作流，效率工具是否足够简单可用，以及学习资源是否适合长期收藏。<br/>
 <br/>
 - [morluto/rea](https://github.com/morluto/rea)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- [openclaw/openclaw](https://github.com/openclaw/openclaw)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- [affaan-m/ECC](https://github.com/affaan-m/ECC)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 <br/>
 完整项目与每日归档：[https://github.com/bailui/bailu-github-daily-rank](https://github.com/bailui/bailu-github-daily-rank)<br/>
@@ -27,8 +27,8 @@ export const githubDailyPosts: BlogPost[] = [
 <br/>
 - **[morluto/rea](https://github.com/morluto/rea)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  <br/>
   - 看点：Reverse engineer anything with agents, from app behavior down to native binaries.<br/>
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  <br/>
-  - 看点：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞<br/>
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  <br/>
+  - 看点：The agent harness performance optimization system. Skills, instincts, memory, security, an...<br/>
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  <br/>
   - 看点：The agent that grows with you<br/>
 <br/>
@@ -39,18 +39,18 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/morluto/rea](https://github.com/morluto/rea)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：458,170<br/>
+- Stars：460,397<br/>
 - 一句话：Reverse engineer anything with agents, from app behavior down to native binaries.<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 2. [openclaw/openclaw](https://github.com/openclaw/openclaw)<br/>
+### 2. [affaan-m/ECC](https://github.com/affaan-m/ECC)<br/>
 <br/>
-- 地址：[https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)<br/>
+- 地址：[https://github.com/affaan-m/ECC](https://github.com/affaan-m/ECC)<br/>
 - 分类：AI工具<br/>
-- 语言：TypeScript<br/>
-- Stars：394,413<br/>
-- 一句话：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞<br/>
+- 语言：JavaScript<br/>
+- Stars：303,334<br/>
+- 一句话：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor ...<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
@@ -59,80 +59,80 @@ export const githubDailyPosts: BlogPost[] = [
 - 地址：[https://github.com/NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br/>
 - 分类：AI工具<br/>
 - 语言：Python<br/>
-- Stars：263,266<br/>
+- Stars：263,456<br/>
 - 一句话：The agent that grows with you<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 4. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)<br/>
-<br/>
-- 地址：[https://github.com/Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)<br/>
-- 分类：AI工具<br/>
-- 语言：Python<br/>
-- Stars：188,021<br/>
-- 一句话：AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 5. [langflow-ai/langflow](https://github.com/langflow-ai/langflow)<br/>
-<br/>
-- 地址：[https://github.com/langflow-ai/langflow](https://github.com/langflow-ai/langflow)<br/>
-- 分类：AI工具<br/>
-- 语言：Python<br/>
-- Stars：156,617<br/>
-- 一句话：Langflow is a powerful tool for building and deploying AI-powered agents and workflows.<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 6. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
+### 4. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
 <br/>
 - 地址：[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br/>
 - 分类：效率神器<br/>
 - 语言：C<br/>
-- Stars：140,963<br/>
+- Stars：140,993<br/>
 - 一句话：Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br/>
 - 我的判断：这类项目值得放进日常工作流里观察，实用性通常比较强。<br/>
 - 适合人群：适合每天办公、写作、整理资料、自动化处理重复工作的用户。<br/>
 <br/>
-### 7. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br/>
-<br/>
-- 地址：[https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br/>
-- 分类：学习资源<br/>
-- 语言：Swift<br/>
-- Stars：118,492<br/>
-- 一句话： This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.<br/>
-- 我的判断：我会把它当作资料库收藏，适合慢慢翻。<br/>
-- 适合人群：适合学生、转行者、程序员和想系统学习新技能的人。<br/>
-<br/>
-### 8. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br/>
-<br/>
-- 地址：[https://github.com/OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)<br/>
-- 分类：AI工具<br/>
-- 语言：TypeScript<br/>
-- Stars：93,443<br/>
-- 一句话：🙌 OpenHands: AI-Driven Development<br/>
-- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
-- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
-<br/>
-### 9. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br/>
+### 5. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br/>
 <br/>
 - 地址：[https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br/>
 - 分类：AI工具<br/>
 - 语言：TypeScript<br/>
-- Stars：84,043<br/>
+- Stars：84,438<br/>
 - 一句话：Write HTML. Render video. Built for agents.<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
 <br/>
-### 10. [unslothai/unsloth](https://github.com/unslothai/unsloth)<br/>
+### 6. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br/>
 <br/>
-- 地址：[https://github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)<br/>
+- 地址：[https://github.com/pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br/>
 - 分类：AI工具<br/>
-- 语言：Python<br/>
-- Stars：79,471<br/>
-- 一句话：Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.<br/>
+- 语言：TypeScript<br/>
+- Stars：60,822<br/>
+- 一句话：The best way to control Claude Code, Codex and more from any computer or phone<br/>
 - 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
 - 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 7. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br/>
+<br/>
+- 地址：[https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br/>
+- 分类：AI工具<br/>
+- 语言：TypeScript<br/>
+- Stars：53,527<br/>
+- 一句话：Your AI workspace for models, agents, and productivity.<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 8. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)<br/>
+<br/>
+- 地址：[https://github.com/AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)<br/>
+- 分类：AI工具<br/>
+- 语言：Python<br/>
+- Stars：46,935<br/>
+- 一句话：AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 9. [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)<br/>
+<br/>
+- 地址：[https://github.com/KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)<br/>
+- 分类：AI工具<br/>
+- 语言：C#<br/>
+- Stars：27,254<br/>
+- 一句话：Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archive...<br/>
+- 我的判断：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。<br/>
+- 适合人群：适合想提升工作效率、做内容、写代码或研究 AI 应用的人。<br/>
+<br/>
+### 10. [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)<br/>
+<br/>
+- 地址：[https://github.com/Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)<br/>
+- 分类：效率神器<br/>
+- 语言：Go<br/>
+- Stars：27,641<br/>
+- 一句话：A cross-platform launcher that simply works<br/>
+- 我的判断：这类项目值得放进日常工作流里观察，实用性通常比较强。<br/>
+- 适合人群：适合每天办公、写作、整理资料、自动化处理重复工作的用户。<br/>
 <br/>
 ## Multi-language quick view<br/>
 <br/>
@@ -142,15 +142,15 @@ export const githubDailyPosts: BlogPost[] = [
 | Rank | Project | Category | Description | My take |<br/>
 |---:|---|---|---|---|<br/>
 | 1 | [morluto/rea](https://github.com/morluto/rea) | AI Tools | Reverse engineer anything with agents, from app behavior down to native binaries. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AI Tools | The agent harness performance optimization system. Skills, instincts, memory, security, an... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
 | 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 4 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AI Tools | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI Tools | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |<br/>
-| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Learning |  This project is dedicated to collecting high-quality macOS software and organizing them ... | My take: a good project to bookmark and revisit when learning or building a roadmap. |<br/>
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI Tools | 🙌 OpenHands: AI-Driven Development | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
-| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI Tools | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |<br/>
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AI Tools | The best way to control Claude Code, Codex and more from any computer or phone | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 7 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI Tools | Your AI workspace for models, agents, and productivity. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Tools | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plu... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 9 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | AI Tools | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |<br/>
+| 10 | [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) | Productivity | A cross-platform launcher that simply works | My take: this could become part of a practical daily productivity workflow. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -160,15 +160,15 @@ export const githubDailyPosts: BlogPost[] = [
 | 順位 | プロジェクト | カテゴリ | 説明 | 所感 |<br/>
 |---:|---|---|---|---|<br/>
 | 1 | [morluto/rea](https://github.com/morluto/rea) | AIツール | Reverse engineer anything with agents, from app behavior down to native binaries. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AIツール | The agent harness performance optimization system. Skills, instincts, memory, security, an... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
 | 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 4 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AIツール | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AIツール | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
-| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学習リソース |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |<br/>
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AIツール | 🙌 OpenHands: AI-Driven Development | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
-| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AIツール | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AIツール | The best way to control Claude Code, Codex and more from any computer or phone | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 7 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AIツール | Your AI workspace for models, agents, and productivity. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AIツール | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plu... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 9 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | AIツール | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |<br/>
+| 10 | [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) | 生産性ツール | A cross-platform launcher that simply works | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -178,15 +178,15 @@ export const githubDailyPosts: BlogPost[] = [
 | 순위 | 프로젝트 | 카테고리 | 설명 | 의견 |<br/>
 |---:|---|---|---|---|<br/>
 | 1 | [morluto/rea](https://github.com/morluto/rea) | AI 도구 | Reverse engineer anything with agents, from app behavior down to native binaries. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AI 도구 | The agent harness performance optimization system. Skills, instincts, memory, security, an... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
 | 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 4 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AI 도구 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 5 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI 도구 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
-| 7 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 학습 자료 |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |<br/>
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI 도구 | 🙌 OpenHands: AI-Driven Development | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
-| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI 도구 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AI 도구 | The best way to control Claude Code, Codex and more from any computer or phone | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 7 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI 도구 | Your AI workspace for models, agents, and productivity. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI 도구 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plu... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 9 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | AI 도구 | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |<br/>
+| 10 | [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) | 생산성 도구 | A cross-platform launcher that simply works | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |<br/>
 <br/>
 </details><br/>
 <br/>
@@ -196,7 +196,7 @@ export const githubDailyPosts: BlogPost[] = [
 <br/>
 > 本内容由 GitHub Actions 自动生成，并加入白鹿 io 的观察口径；仅用于学习研究和工具发现，不构成投资建议。`,
     author: '白鹿 io',
-    date: '2026-11-14',
+    date: '2026-11-15',
     category: 'AI工具',
     readCount: 0,
     tags: ['GitHub', 'AI工具', '效率工具', '开源项目', '多语言'],
