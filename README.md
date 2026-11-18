@@ -68,13 +68,13 @@
 
 <!-- DAILY_RANK_START -->
 
-> 更新时间：2026-11-17  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
+> 更新时间：2026-11-18  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
 
 ### 我的今日观察
 
 今天我会重点看这几个方向：AI 工具是否真的能进入日常工作流，效率工具是否足够简单可用，以及学习资源是否适合长期收藏。
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
+- [openclaw/openclaw](https://github.com/openclaw/openclaw)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 - [langgenius/dify](https://github.com/langgenius/dify)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 
@@ -83,8 +83,8 @@
 
 ### 今日精选
 
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
-  - 看点：The agent harness performance optimization system. Skills, instincts, memory, security, an...
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
+  - 看点：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
   - 看点：The agent that grows with you
 - **[langgenius/dify](https://github.com/langgenius/dify)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
@@ -94,21 +94,21 @@
 
 | 排名 | 项目 | 分类 | 一句话看点 | 语言 | Stars | Forks | 更新 |
 |---:|---|---|---|---|---:|---:|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AI工具 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first dev... | JavaScript | 304,843 | 44,891 | 2026-11-17 |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI工具 | The agent that grows with you | Python | 264,022 | 59,548 | 2026-11-17 |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | AI工具 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. De... | Python | 161,329 | 25,516 | 2026-11-17 |
-| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AI工具 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | Svelte | 158,889 | 23,091 | 2026-11-17 |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | AI工具 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, cat... | Rust | 111,614 | 6,666 | 2026-11-17 |
-| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI工具 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websi... | TypeScript | 107,998 | 12,267 | 2026-11-17 |
-| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Write HTML. Render video. Built for agents. | TypeScript | 85,449 | 7,917 | 2026-11-17 |
-| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 79,650 | 7,439 | 2026-11-17 |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI工具 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | 70,958 | 5,848 | 2026-11-17 |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI工具 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format wit... | Python | 63,390 | 13,342 | 2026-11-17 |
-| 11 | [tw93/Pake](https://github.com/tw93/Pake) | AI工具 | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | Rust | 63,720 | 13,028 | 2026-11-17 |
-| 12 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AI工具 | The best way to control Claude Code, Codex and more from any computer or phone | TypeScript | 63,222 | 11,198 | 2026-11-17 |
-| 13 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | AI工具 | The open alternative to Salesforce, designed for AI. | TypeScript | 61,031 | 10,113 | 2026-11-17 |
-| 14 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | AI工具 | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex co... | Go | 58,786 | 9,013 | 2026-11-17 |
-| 15 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI工具 | Your AI workspace for models, agents, and productivity. | TypeScript | 53,586 | 5,229 | 2026-11-17 |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 394,703 | 82,917 | 2026-11-18 |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI工具 | The agent that grows with you | Python | 264,311 | 59,642 | 2026-11-18 |
+| 3 | [langgenius/dify](https://github.com/langgenius/dify) | AI工具 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. De... | Python | 161,397 | 25,524 | 2026-11-18 |
+| 4 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI工具 | The agent engineering platform. | Python | 149,834 | 25,158 | 2026-11-18 |
+| 5 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学习资源 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by di... | Swift | 118,792 | 10,396 | 2026-11-18 |
+| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI工具 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websi... | TypeScript | 108,176 | 12,279 | 2026-11-18 |
+| 7 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI工具 | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, G... | TypeScript | 88,482 | 13,616 | 2026-11-18 |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Write HTML. Render video. Built for agents. | TypeScript | 86,156 | 7,982 | 2026-11-18 |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | AI工具 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero depend... | Rust | 86,992 | 5,588 | 2026-11-18 |
+| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 79,718 | 7,442 | 2026-11-18 |
+| 11 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI工具 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | 70,984 | 5,845 | 2026-11-18 |
+| 12 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | AI工具 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. ... | Python | 69,165 | 8,229 | 2026-11-18 |
+| 13 | [webpack/webpack](https://github.com/webpack/webpack) | 效率神器 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for ... | JavaScript | 66,008 | 9,695 | 2026-11-18 |
+| 14 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 图片视频 | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, i... | Python | 63,550 | 12,022 | 2026-11-18 |
+| 15 | [tw93/Pake](https://github.com/tw93/Pake) | AI工具 | Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. | Rust | 63,765 | 13,040 | 2026-11-18 |
 
 ### 多语言速览 / Multi-language quick view
 
@@ -117,16 +117,16 @@
 
 | Rank | Project | Category | Description | My take |
 |---:|---|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AI Tools | The agent harness performance optimization system. Skills, instincts, memory, security, an... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 3 | [langgenius/dify](https://github.com/langgenius/dify) | AI Tools | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AI Tools | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | AI Tools | The design vocabulary for your coding agent. Steer with polish and bolder, review with cri... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 4 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI Tools | The agent engineering platform. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 5 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Learning |  This project is dedicated to collecting high-quality macOS software and organizing them ... | My take: a good project to bookmark and revisit when learning or building a roadmap. |
 | 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI Tools | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI Tools | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI Tools | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI Tools | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (o... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 7 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI Tools | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Write HTML. Render video. Built for agents. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | AI Tools | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI Tools | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 
 </details>
 
@@ -135,16 +135,16 @@
 
 | 順位 | プロジェクト | カテゴリ | 説明 | 所感 |
 |---:|---|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AIツール | The agent harness performance optimization system. Skills, instincts, memory, security, an... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 3 | [langgenius/dify](https://github.com/langgenius/dify) | AIツール | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AIツール | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | AIツール | The design vocabulary for your coding agent. Steer with polish and bolder, review with cri... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 4 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AIツール | The agent engineering platform. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 5 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学習リソース |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |
 | 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AIツール | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AIツール | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AIツール | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AIツール | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (o... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 7 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AIツール | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Write HTML. Render video. Built for agents. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | AIツール | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AIツール | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 
 </details>
 
@@ -153,16 +153,16 @@
 
 | 순위 | 프로젝트 | 카테고리 | 설명 | 의견 |
 |---:|---|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | AI 도구 | The agent harness performance optimization system. Skills, instincts, memory, security, an... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 3 | [langgenius/dify](https://github.com/langgenius/dify) | AI 도구 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 4 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | AI 도구 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | AI 도구 | The design vocabulary for your coding agent. Steer with polish and bolder, review with cri... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 4 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI 도구 | The agent engineering platform. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 5 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 학습 자료 |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |
 | 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | AI 도구 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motio... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 7 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI 도구 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI 도구 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engine... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI 도구 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (o... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 7 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI 도구 | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Write HTML. Render video. Built for agents. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | AI 도구 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI 도구 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 
 </details>
 
