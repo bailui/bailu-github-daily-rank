@@ -68,14 +68,14 @@
 
 <!-- DAILY_RANK_START -->
 
-> 更新时间：2026-11-24  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
+> 更新时间：2026-11-25  ·  免费自动版  ·  带个人观察、项目直达链接和多语言速览
 
 ### 我的今日观察
 
 今天我会重点看这几个方向：AI 工具是否真的能进入日常工作流，效率工具是否足够简单可用，以及学习资源是否适合长期收藏。
 
+- [morluto/rea](https://github.com/morluto/rea)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 - [openclaw/openclaw](https://github.com/openclaw/openclaw)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 - [n8n-io/n8n](https://github.com/n8n-io/n8n)：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。
 
 完整项目与每日归档：[https://github.com/bailui/bailu-github-daily-rank](https://github.com/bailui/bailu-github-daily-rank)
@@ -83,10 +83,10 @@
 
 ### 今日精选
 
+- **[morluto/rea](https://github.com/morluto/rea)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
+  - 看点：Reverse engineer anything with agents, from app behavior down to native binaries.
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
   - 看点：The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
-  - 看点：The agent that grows with you
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)**：我会优先关注这类项目，它可能直接改变写作、编程、整理资料和自动化工作的效率。  
   - 看点：Fair-code workflow automation platform with native AI capabilities. Combine visual buildin...
 
@@ -94,21 +94,21 @@
 
 | 排名 | 项目 | 分类 | 一句话看点 | 语言 | Stars | Forks | 更新 |
 |---:|---|---|---|---|---:|---:|---|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 395,138 | 82,965 | 2026-11-24 |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI工具 | The agent that grows with you | Python | 265,758 | 60,166 | 2026-11-24 |
-| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | AI工具 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, ... | TypeScript | 211,928 | 61,640 | 2026-11-24 |
-| 4 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | AI工具 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. In... | Shell | 190,798 | 27,144 | 2026-11-24 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | AI工具 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. De... | Python | 161,815 | 25,548 | 2026-11-24 |
-| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 效率神器 | Virtual whiteboard for sketching hand-drawn like diagrams | TypeScript | 136,216 | 16,272 | 2026-11-24 |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | AI工具 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile,... | TypeScript | 115,325 | 15,148 | 2026-11-24 |
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI工具 | 🙌 OpenHands: AI-Driven Development | TypeScript | 94,205 | 12,608 | 2026-11-24 |
-| 9 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI工具 | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, G... | TypeScript | 89,974 | 13,964 | 2026-11-24 |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or ... | TypeScript | 89,214 | 8,321 | 2026-11-24 |
-| 11 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | AI工具 | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you... | JavaScript | 84,503 | 15,461 | 2026-11-24 |
-| 12 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 80,126 | 7,459 | 2026-11-24 |
-| 13 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AI工具 | The best way to control Claude Code, Codex and more from any computer or phone | TypeScript | 76,193 | 12,558 | 2026-11-24 |
-| 14 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | AI工具 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | 71,093 | 5,838 | 2026-11-24 |
-| 15 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | AI工具 | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. ... | Python | 69,411 | 8,256 | 2026-11-24 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | AI工具 | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 477,647 | 116,233 | 2026-11-25 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 395,171 | 82,971 | 2026-11-25 |
+| 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | AI工具 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, ... | TypeScript | 212,072 | 61,653 | 2026-11-25 |
+| 4 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 学习资源 | A curated list of awesome Go frameworks, libraries and software | Go | 195,866 | 13,764 | 2026-11-25 |
+| 5 | [f/prompts.chat](https://github.com/f/prompts.chat) | AI工具 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source ... | MDX | 178,479 | 22,749 | 2026-11-25 |
+| 6 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI工具 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | Python | 156,926 | 10,444 | 2026-11-25 |
+| 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI工具 | The agent engineering platform. | Python | 149,964 | 25,165 | 2026-11-25 |
+| 8 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 效率神器 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 141,374 | 8,733 | 2026-11-25 |
+| 9 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学习资源 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by di... | Swift | 119,317 | 10,594 | 2026-11-25 |
+| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AI工具 | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infr... | Go | 94,679 | 11,394 | 2026-11-25 |
+| 11 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI工具 | Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or ... | TypeScript | 89,788 | 8,371 | 2026-11-25 |
+| 12 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | AI工具 | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, G... | Python | 80,209 | 7,468 | 2026-11-25 |
+| 13 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | AI工具 | The best way to control Claude Code, Codex and more from any computer or phone | TypeScript | 78,416 | 13,627 | 2026-11-25 |
+| 14 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI工具 | Your AI workspace for models, agents, and productivity. | TypeScript | 53,859 | 5,268 | 2026-11-25 |
+| 15 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | AI工具 | Build resilient agents. | Python | 45,387 | 7,858 | 2026-11-25 |
 
 ### 多语言速览 / Multi-language quick view
 
@@ -117,16 +117,16 @@
 
 | Rank | Project | Category | Description | My take |
 |---:|---|---|---|---|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI Tools | The agent that grows with you | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | AI Tools | Reverse engineer anything with agents, from app behavior down to native binaries. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI Tools | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 | 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | AI Tools | Fair-code workflow automation platform with native AI capabilities. Combine visual buildin... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 4 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | AI Tools | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your z... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | AI Tools | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Productivity | Virtual whiteboard for sketching hand-drawn like diagrams | My take: this could become part of a practical daily productivity workflow. |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | AI Tools | The Postgres development platform. Supabase gives you a dedicated Postgres database to bui... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI Tools | 🙌 OpenHands: AI-Driven Development | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 9 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI Tools | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI Tools | Open-source AI video editor: edit your own footage, or create and remake any video with Cl... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 4 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | Learning | A curated list of awesome Go frameworks, libraries and software | My take: a good project to bookmark and revisit when learning or building a roadmap. |
+| 5 | [f/prompts.chat](https://github.com/f/prompts.chat) | AI Tools | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. F... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 6 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI Tools | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI Tools | The agent engineering platform. | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
+| 8 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Productivity | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | My take: this could become part of a practical daily productivity workflow. |
+| 9 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | Learning |  This project is dedicated to collecting high-quality macOS software and organizing them ... | My take: a good project to bookmark and revisit when learning or building a roadmap. |
+| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AI Tools | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that gr... | My take: worth tracking because it may improve writing, coding, research, or automation workflows. |
 
 </details>
 
@@ -135,16 +135,16 @@
 
 | 順位 | プロジェクト | カテゴリ | 説明 | 所感 |
 |---:|---|---|---|---|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AIツール | The agent that grows with you | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | AIツール | Reverse engineer anything with agents, from app behavior down to native binaries. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AIツール | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 | 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | AIツール | Fair-code workflow automation platform with native AI capabilities. Combine visual buildin... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 4 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | AIツール | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your z... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | AIツール | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 生産性ツール | Virtual whiteboard for sketching hand-drawn like diagrams | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | AIツール | The Postgres development platform. Supabase gives you a dedicated Postgres database to bui... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AIツール | 🙌 OpenHands: AI-Driven Development | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 9 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AIツール | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AIツール | Open-source AI video editor: edit your own footage, or create and remake any video with Cl... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 4 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 学習リソース | A curated list of awesome Go frameworks, libraries and software | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |
+| 5 | [f/prompts.chat](https://github.com/f/prompts.chat) | AIツール | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. F... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 6 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AIツール | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AIツール | The agent engineering platform. | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
+| 8 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 生産性ツール | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 所感：日々の作業フローに入れられる可能性がある実用系ツールです。 |
+| 9 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 学習リソース |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 所感：学習ロードマップや資料集として保存しておきたいプロジェクトです。 |
+| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AIツール | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that gr... | 所感：文章作成、開発、調査、自動化の効率を上げる可能性があり、継続的に見たいプロジェクトです。 |
 
 </details>
 
@@ -153,16 +153,16 @@
 
 | 순위 | 프로젝트 | 카테고리 | 설명 | 의견 |
 |---:|---|---|---|---|
-| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | AI 도구 | The agent that grows with you | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | AI 도구 | Reverse engineer anything with agents, from app behavior down to native binaries. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | AI 도구 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 | 3 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | AI 도구 | Fair-code workflow automation platform with native AI capabilities. Combine visual buildin... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 4 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | AI 도구 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your z... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 5 | [langgenius/dify](https://github.com/langgenius/dify) | AI 도구 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collabo... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 생산성 도구 | Virtual whiteboard for sketching hand-drawn like diagrams | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase) | AI 도구 | The Postgres development platform. Supabase gives you a dedicated Postgres database to bui... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 8 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | AI 도구 | 🙌 OpenHands: AI-Driven Development | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 9 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | AI 도구 | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ mo... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
-| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | AI 도구 | Open-source AI video editor: edit your own footage, or create and remake any video with Cl... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 4 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 학습 자료 | A curated list of awesome Go frameworks, libraries and software | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |
+| 5 | [f/prompts.chat](https://github.com/f/prompts.chat) | AI 도구 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. F... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 6 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | AI 도구 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 7 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | AI 도구 | The agent engineering platform. | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
+| 8 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 생산성 도구 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customi... | 의견: 일상 업무 흐름에 넣어볼 만한 실용 도구입니다. |
+| 9 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 학습 자료 |  This project is dedicated to collecting high-quality macOS software and organizing them ... | 의견: 학습 자료나 로드맵으로 저장해두기 좋습니다. |
+| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | AI 도구 | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that gr... | 의견: 글쓰기, 개발, 리서치, 자동화 효율을 높일 수 있어 계속 지켜볼 만합니다. |
 
 </details>
 
